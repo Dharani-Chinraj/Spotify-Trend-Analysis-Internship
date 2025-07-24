@@ -32,7 +32,10 @@ Successfully completed a **28-day Data Analytics Internship** at **Ideal Formati
 
 ## 📁 Files Included
 
-- `intern_certificate.jpg` – Internship completion certificate    
+- `intern_certificate.jpg` – Internship completion certificate
+-  `Spotify data cleaning.xlsx` – Data Cleaning using Excel
+-  `spotify sql.sql` – Querying the data using MySQL
+-  `Spotify Dashboard.pbix` – Data Cleaning using Excel
 - `README.md` – Overview and documentation
 
 ---
@@ -42,9 +45,5 @@ Successfully completed a **28-day Data Analytics Internship** at **Ideal Formati
 Created a full end-to-end data analysis pipeline with visualization using Power BI. Gained hands-on experience with real datasets, learned to apply SQL queries for real-world problems, and developed storytelling skills through dashboards and trend analysis.
 
 ---
-
-## 📬 Contact![intern_certificate](https://github.com/user-attachments/assets/e65d5dca-6bbf-4aa1-be7a-ce8124f98b20)
-
-
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dharani-chinraj)
 
