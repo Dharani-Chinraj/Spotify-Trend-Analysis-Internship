@@ -33,9 +33,9 @@ Successfully completed a **28-day Data Analytics Internship** at **Ideal Formati
 ## 📁 Files Included
 
 - `intern_certificate.jpg` – Internship completion certificate
--  `Spotify data cleaning.xlsx` – Data Cleaning using Excel
--  `spotify sql.sql` – Querying the data using MySQL
--  `Spotify Dashboard.pbix` – Data Cleaning using Excel
+-  [`Spotify data cleaning.xlsx` – Data Cleaning using Excel](https://docs.google.com/spreadsheets/d/1xY2AQsJR-1CFW02VTWQwCKjBDiPHCec7/edit?usp=drivesdk&ouid=105044787686859808506&rtpof=true&sd=true)
+-  [`spotify sql.sql` – Querying the data using MySQL](https://drive.google.com/file/d/1xY7jouyCQ8-W_1DiUYrI6RPEKb-xgT5A/view?usp=drivesdk)
+-  [`Spotify Dashboard.pbix` – Data Cleaning using Excel](https://drive.google.com/file/d/1xXLQ_hQaiEHvNfJrD6rN4Y1azixAshv4/view?usp=drivesdk)
 - `README.md` – Overview and documentation
 
 ---
